@@ -1,2 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="localise_integration_test_placeholders">"Sveiki, %1$s, šī ir lokalizācija, mēģiniet %2$d "</string>
 </resources>
