@@ -21,3 +21,4 @@ jobs:
                   file_format: xml
                   translations_path:  app/src/main/res
                   base_lang: en
+                  additional_params: "--filter-data reviewed"
