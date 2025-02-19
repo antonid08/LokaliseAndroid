@@ -20,3 +20,4 @@ jobs:
           translations_path: app/src/main/res/values*
           name_pattern: "strings.xml"
           base_lang: en
+          rambo_mode: true 
