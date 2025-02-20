@@ -7,4 +7,9 @@
   <string name="localise_integration_test_placeholders">"Hello %1$s, this is lokalise, attempt %2$s"</string>
   <string name="test">Test string</string>
   <string name="test_string_placeholder">Test: %s</string>
+
+  <!-- DEMO -->
+  <string name="demo_string">Hi, this is demo</string>
+  <string name="demo_placeholder">Demo for the: %s</string>
+  <string name="sparrow">Sparrow - meet new product!</string>
 </resources>
