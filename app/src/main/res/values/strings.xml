@@ -1,5 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="localise_integration_test">"Hello everyone, this is lokalise"</string>
-    <string name="localise_integration_test_placeholders">"Hello %1$s, this is lokalise, attempt %2$s"</string>
-    <string name="camera_status">Camera Status, %s</string>
+  <string name="camera_status">Camera Status, %s</string>
 </resources>
