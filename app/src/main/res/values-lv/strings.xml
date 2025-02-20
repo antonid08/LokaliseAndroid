@@ -5,4 +5,6 @@
   <string name="good_morning">čau, kolēģi. sveicieni!</string>
   <string name="localise_integration_test">"Sveiki visiem, šī ir lokalizācija"</string>
   <string name="localise_integration_test_placeholders">"Sveiki, %1$s, šī ir lokalizācija, mēģiniet %2$s"</string>
+  <string name="test">Testa virkne</string>
+  <string name="test_string_placeholder">Tests: %s</string>
 </resources>
