@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="camera_status">Camera Status, %s</string>
+  <string name="canary_product_1">Canary - it\'s not just a bird, it\'s our new product</string>
   <string name="localise_integration_test">"Hello everyone, this is lokalise"</string>
   <string name="localise_integration_test_placeholders">"Hello %1$s, this is lokalise, attempt %2$s"</string>
-  <string name="canary_product_1">Canary - it\'s not just a bird, it\'s our new product</string>
 </resources>

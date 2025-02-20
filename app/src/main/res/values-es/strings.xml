@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="camera_status">Estado de la cámara, %s</string>
-  <string name="localise_integration_test_placeholders">Hola %1$s, soy lokalise, intento %2$s</string>
+  <string name="canary_product_1">Canary - no es solo un pájaro, es nuestro nuevo producto</string>
+  <string name="localise_integration_test">Hola a todos, este es lokalise</string>
+  <string name="localise_integration_test_placeholders">"Hola %1$s, soy lokalise, intento %2$s"</string>
 </resources>
