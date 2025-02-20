@@ -2,6 +2,7 @@
 <resources>
   <string name="camera_status">Kameras statuss, %s</string>
   <string name="canary_product_1">Canary - tas nav tikai putns, tas ir mūsu jaunais produkts</string>
+  <string name="good_morning">čau, kolēģi. sveicieni!</string>
   <string name="localise_integration_test">"Sveiki visiem, šī ir lokalizācija"</string>
   <string name="localise_integration_test_placeholders">"Sveiki, %1$s, šī ir lokalizācija, mēģiniet %2$s"</string>
 </resources>
