@@ -5,4 +5,6 @@
   <string name="good_morning">Good morning colleagues. Greetings!</string>
   <string name="localise_integration_test">"Hello everyone, this is lokalise"</string>
   <string name="localise_integration_test_placeholders">"Hello %1$s, this is lokalise, attempt %2$s"</string>
+  <string name="test">Test string</string>
+  <string name="test_string_placeholder">Test: %s</string>
 </resources>
