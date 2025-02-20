@@ -2,9 +2,13 @@
 <resources>
   <string name="camera_status">Estado de la cámara, %s</string>
   <string name="canary_product_1">Canary - no es solo un pájaro, es nuestro nuevo producto</string>
+  <string name="demo_placeholder">Demostración para el: %s</string>
+  <!-- DEMO -->
+  <string name="demo_string">Hola, esto es una demostración</string>
   <string name="good_morning">buenos días colegas. ¡saludos!</string>
   <string name="localise_integration_test">Hola a todos, este es lokalise</string>
   <string name="localise_integration_test_placeholders">"Hola %1$s, soy lokalise, intento %2$s"</string>
+  <string name="sparrow">Sparrow - ¡conoce el nuevo producto!</string>
   <string name="test">Cadena de prueba</string>
   <string name="test_string_placeholder">Prueba: %s</string>
 </resources>
