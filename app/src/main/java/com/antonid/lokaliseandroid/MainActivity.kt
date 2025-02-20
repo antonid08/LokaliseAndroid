@@ -4,12 +4,14 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import com.antonid.lokaliseandroid.ui.theme.LokaliseAndroidTheme
 
@@ -32,10 +34,21 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
+    Column {
+        Text(
+            text = stringResource(R.string.camera_status, "Online"),
+            modifier = modifier
+        )
+        Text(
+            text = stringResource(R.string.localise_integration_test),
+            modifier = modifier
+        )
+        Text(
+            text = stringResource(R.string.canary_product),
+            modifier = modifier
+        )
+    }
+
 }
 
 @Preview(showBackground = true)
