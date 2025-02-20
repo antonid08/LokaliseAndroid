@@ -44,7 +44,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
             modifier = modifier
         )
         Text(
-            text = stringResource(R.string.canary_product),
+            text = stringResource(R.string.canary_product_1),
             modifier = modifier
         )
     }
