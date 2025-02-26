@@ -11,4 +11,10 @@
   <string name="sparrow">Sparrow - meet new product!</string>
   <string name="test">Test string</string>
   <string name="test_string_placeholder">Test: %s</string>
+
+  <!-- DEMO 2-->
+  <string name="demo_string_2">Demo string</string>
+  <string name="demo_with_placeholder">Showing demo to: %s</string>
+  <string name="lokalise_demo">Lokalise - product name, not translatable</string>
+
 </resources>
