@@ -36,15 +36,15 @@ class MainActivity : ComponentActivity() {
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Column {
         Text(
-            text = stringResource(R.string.demo_string ),
+            text = stringResource(R.string.demo_string_2),
             modifier = modifier
         )
         Text(
-            text = stringResource(R.string.demo_placeholder, "team"),
+            text = stringResource(R.string.demo_with_placeholder, "the team"),
             modifier = modifier
         )
         Text(
-            text = stringResource(R.string.sparrow),
+            text = stringResource(R.string.lokalise_demo),
             modifier = modifier
         )
     }
