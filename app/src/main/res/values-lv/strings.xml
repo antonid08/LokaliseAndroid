@@ -5,9 +5,13 @@
   <string name="demo_placeholder">Demonstrācija priekš: %s</string>
   <!-- DEMO -->
   <string name="demo_string">Sveiki, šis ir demonstrējums</string>
+  <!-- DEMO 2 -->
+  <string name="demo_string_2">Demonstrācijas virkne</string>
+  <string name="demo_with_placeholder">Demonstrācijas rādīšana: %s</string>
   <string name="good_morning">čau, kolēģi. sveicieni!</string>
   <string name="localise_integration_test">"Sveiki visiem, šī ir lokalizācija"</string>
   <string name="localise_integration_test_placeholders">"Sveiki, %1$s, šī ir lokalizācija, mēģiniet %2$s"</string>
+  <string name="lokalise_demo">Lokalise - produkta nosaukums, nav tulkojams</string>
   <string name="sparrow">Sparrow - iepazīstieties ar jauno produktu!</string>
   <string name="test">Testa virkne</string>
   <string name="test_string_placeholder">Tests: %s</string>
